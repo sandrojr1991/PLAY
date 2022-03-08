@@ -2,14 +2,45 @@
 
 <nsx ver="1.0" rev="1" lt-id="1" anno="max-age=99" min-sys-ver="">
 	<spc id="33537" rep="t" multi="o" anno="csxad=1&amp;adspace=1,52,53,54,55" autoflip="4000">
-		<!-- ABC View -->
+		<!-- Kubanacan -->
 		<mtrl id="1" mname="Kubanacan" from="2015-02-13T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2015-07-13T15:35:40.000Z" anno="premium=1">
 			<desc>Kubanacan</desc>
-			<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandro_store.png</url>
+			<url type="2">https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png</url>
 			<target type="u">https://github.com/sandrojr1991/NOVELAS/releases/download/KUBANACAN/KUBANACAN_Capitulo_1.mp4</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-
+		<!-- Chocolate com Pimenta -->
+		<mtrl id="1" mname="Chocolate com Pimenta" from="2015-02-13T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2015-07-13T15:35:40.000Z" anno="premium=1">
+			<desc>Chocolate com Pimenta</desc>
+			<url type="2">https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/chocolate_com_pimenta.png</url>
+			<target type="u">https://github.com/sandrojr1991/NOVELAS/releases/download/KUBANACAN/KUBANACAN_Capitulo_1.mp4</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+		<!-- Da Cor do Pecado -->
+		<mtrl id="1" mname="Da Cor do Pecado" from="2015-02-13T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2015-07-13T15:35:40.000Z" anno="premium=1">
+			<desc>Da Cor do Pecado</desc>
+			<url type="2">https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/da_cor_do_pecado.png</url>
+			<target type="u">https://github.com/sandrojr1991/NOVELAS/releases/download/KUBANACAN/KUBANACAN_Capitulo_1.mp4</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>	
+		<!-- O Clone -->
+		<mtrl id="1" mname="O Clone" from="2015-02-13T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2015-07-13T15:35:40.000Z" anno="premium=1">
+			<desc>O Clone</desc>
+			<url type="2">https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/o_clone.png</url>
+			<target type="u">https://github.com/sandrojr1991/NOVELAS/releases/download/KUBANACAN/KUBANACAN_Capitulo_1.mp4</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>	
+		<!-- O Cravo e a Rosa -->
+		<mtrl id="1" mname="O Cravo e a Rosa" from="2015-02-13T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2015-07-13T15:35:40.000Z" anno="premium=1">
+			<desc>O Cravo e a Rosa</desc>
+			<url type="2">https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/o_cravo_e_a_rosa.png</url>
+			<target type="u">https://github.com/sandrojr1991/NOVELAS/releases/download/KUBANACAN/KUBANACAN_Capitulo_1.mp4</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>					
 	</spc>
 </nsx>
