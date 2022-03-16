@@ -1,0 +1,15 @@
+{
+	"description": "<p>ByZMOD, sua fonte única para todos os seus programas de TV favoritos. Downloads GRÁTIS! Assista a mais séries de TV do que nunca. ByZMOD está lançando novos episódios diários. SEGURO!",
+	"author": "ByZMOD",
+	"homepage": "",
+	"title": "ByZMOD",
+	"synopsis": "ByZMOD - TV Torrents Online",
+	"version": "0.0.1",
+        "file": "ByZMOD.js",
+	"showtimeVersion": "4.10",
+	"type": "ecmascript",
+	"id": "ByZMOD",
+	"icon": "logo.png",
+	"category": "video",
+        "apiversion": 2
+}
